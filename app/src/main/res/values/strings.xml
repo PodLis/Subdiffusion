@@ -1,0 +1,49 @@
+<resources>
+    <string name="button1">Start Diffusion</string>
+    <string name="button3">Walking patterns</string>
+    <string name="Name1" translatable="false">Name1</string>
+    <string name="Name2" translatable="false">Name2</string>
+    <string name="Name3">Save change and start</string>
+    <string name="Text" translatable="false">Text1</string>
+
+    <string name="ForEditText1">Width of walking field (points)</string>
+    <string name="ForEditText2">Height of walking field (points)</string>
+    <string name="ForEditText3">Number of points</string>
+    <string name="ForEditText4">Chance to move on little vector</string>
+    <string name="ForEditText5">Chance to move on medium vector</string>
+    <string name="ForEditText6">Coefficient of anomaly</string>
+    <string name="ForEditText7">Coefficient of diffusion</string>
+    <string name="ForEditText8">Rendering speed</string>
+    <string name="ForEditText9">Point radius</string>
+
+    <string name="action_MenuName">Menu</string>
+    <string name="action_Mathematical">Diffusion parameters</string>
+    <string name="action_Visual">Rendering parameters</string>
+    <string name="action_Patterns">Patterns</string>
+    <string name="title_activity_normal">Subdiffusion!</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_patterns">PatternsActivity</string>
+    <string name="title_activity_add">New pattern</string>
+
+    <string name="AddPattern">Add pattern</string>
+    <string name="EditPattern">Change pattern</string>
+    <string name="ViewPattern">Check pattern</string>
+    <string name="NameOfPattern">Pattern name</string>
+    <string name="YourPatterns"><u>Your patterns:</u></string>
+    <string name="app_name">Subdiffusion!</string>
+    <string name="button2">Simple start</string>
+    <string name="header_text">Real Diffusion</string>
+    <string name="MyMail" translatable="false">RosenZM@yandex.ru</string>
+    <string name="menuTitle1">Import</string>
+    <string name="menuTitle2">Gallery</string>
+    <string name="menuTitle3">SlideShow</string>
+    <string name="menuTitle4">Tools</string>
+    <string name="menuMacroTitle">Communicate</string>
+    <string name="menuTitle5">Share</string>
+    <string name="menuTtile6">Send</string>
+    <string name="Activ" translatable="false">AAAAAA</string>
+</resources>

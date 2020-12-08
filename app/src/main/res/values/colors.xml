@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#009688</color>
+    <color name="colorPrimaryDark">#00796B</color>
+    <color name="colorPrimaryLight">#B2DFDB</color>
+    <color name="colorAccent">#009688</color>
+    <color name="primary_text">#FF212121</color>
+    <color name="secondary_text">#757575</color>
+    <color name="icons">#FFFFFF</color>
+    <color name="divider">#BDBDBD</color>
+    <color name="test1">#37474F</color>
+    <color name="test2">#546E7A</color>
+    <color name="test3">#B0BEC5</color>
+
+    <color name="redButton">#c21f06</color>
+    <color name="First">#9FA8DA</color>
+    <color name="Second">#7986CB</color>
+    <color name="Third">#5C6BC0</color>
+    <color name="Fourth">#3F51B5</color>
+    <color name="Fives">#283593</color>
+    <color name="Phone">#ebebeb</color>
+</resources>

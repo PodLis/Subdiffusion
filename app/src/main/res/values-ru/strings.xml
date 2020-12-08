@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Субдиффузия!</string>
+    <string name="button1">Начать диффузию</string>
+    <string name="button2">Быстрый старт</string>
+    <string name="button3">Шаблоны Блуждания</string>
+    <string name="Name3">Сохранить и начать</string>
+    <string name="ForEditText1">Ширина поля блуждания (в частицах)</string>
+    <string name="ForEditText2">Высота поля блуждания (в частицах)</string>
+    <string name="ForEditText3">Количество частиц</string>
+    <string name="ForEditText4">Вероятность переместиться по малому вектору</string>
+    <string name="ForEditText5">Вероятность переместиться по среднему вектору</string>
+    <string name="ForEditText6">Коэффициент аномальности</string>
+    <string name="ForEditText7">Коэффициент диффузии</string>
+    <string name="ForEditText8">Скорость визуализации</string>
+    <string name="ForEditText9">Радиус визуализируемой частицы</string>
+    <string name="action_MenuName">Меню</string>
+    <string name="action_Mathematical">Параметры диффузии</string>
+    <string name="action_Visual">Параметры визуализации</string>
+    <string name="action_Patterns">Шаблоны</string>
+    <string name="title_activity_normal">Субдиффузия!</string>
+    <string name="title_activity_add">Новый шаблон</string>
+    <string name="AddPattern">Добавить шаблон</string>
+    <string name="EditPattern">Изменить шаблон</string>
+    <string name="ViewPattern">Проверить шаблон</string>
+    <string name="NameOfPattern">Имя шаблона</string>
+    <string name="YourPatterns"><u>Ваши шаблоны:</u></string>
+    <string name="action_settings">Настройки</string>
+    <string name="title_activity_patterns">Шаблоны</string>
+    <string name="navigation_drawer_close">Закрыть навигационную панель</string>
+    <string name="navigation_drawer_open">Открыть навигационную панель</string>
+    <string name="header_text">Настоящая Диффузия</string>
+    <string name="menuTitle1">Импортировать</string>
+    <string name="menuTitle2">Галлерея</string>
+    <string name="menuTitle3">СлайдШоу</string>
+    <string name="menuTitle4">Инструменты</string>
+    <string name="menuMacroTitle">Связь</string>
+    <string name="menuTitle5">Поделиться</string>
+    <string name="menuTtile6">Отправить</string>
+</resources>
